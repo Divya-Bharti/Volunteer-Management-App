@@ -1,15 +1,7 @@
 
+A centralized volunteer management database and web app to promote volunteer opportunities; train, affirm, recognize and track volunteers serving on campus
 
-# Project272
-
-
-
-## Usage
-
-
-
-## Developing
-
+Implementing using MEAN stack.
 
 
 ### Tools
